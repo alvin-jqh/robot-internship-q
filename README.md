@@ -20,11 +20,11 @@ intern-challenge/
 ``` 
 
 ### Task A animations:
-- `rr_robot_animationA.gif` : original gif for task A
-- `rr_robot_animation.gif` : slightly sped up version of the task A gif
+- `rrr_robot_animationA.gif` : original gif for task A
+- `rrr_robot_animation.gif` : slightly sped up version of the task A gif
 
 ### Task B animations:
-- rr_robot_animationB.gif : original gif for task B
+- `rrr_robot_animationB.gif` : original gif for task B
 
 ## Running the Code:
 `sim.ipynb` shows the target trajectories for x and y over time for both tasks  
